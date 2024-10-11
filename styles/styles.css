@@ -16,7 +16,7 @@ body {
 
 .nav-section {
   margin-top: 33px;
-  width: 1151px;
+  min-width: 1151px;
 }
 
 .nav-container {
